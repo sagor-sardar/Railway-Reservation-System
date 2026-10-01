@@ -1,0 +1,10 @@
+TR001|Chitra Express|Dhaka|Khulna|120|7
+TR002|Padma Express|Rajshahi|Dhaka|100|0
+TR003|Silk City Express|Rajshahi|Dhaka|150|0
+TR004|Subarna Express|Chattogram|Dhaka|110|0
+TR005|Turna Nishitha|Dhaka|Chattogram|160|0
+TR006|Mohanagar Godhuli|Dhaka|Chattogram|130|0
+TR007|Ekota Express|Dhaka|Dinajpur|140|0
+TR008|Lalmoni Express|Dhaka|Lalmonirhat|100|0
+TR009|Tista Express|Dhaka|Rangpur|90|0
+TR010|Jahanabadh Express|Dhaka|Khulna|125|0
